@@ -36,7 +36,7 @@ We're an open source movement that depends on your support to stay online and th
 
 ## Demo image credits
 
-- [Unsplash](https://unsplash.com)
+- [Unsplash](https://unsplash.com) i
 
 ## Latest news
 
