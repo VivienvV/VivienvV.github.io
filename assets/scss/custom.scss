@@ -117,6 +117,12 @@ html body#top.page-wrapper div.page-header.header--fixed header nav#navbar-main.
     background-color: #454371 !important; // your preferred button hover background color
 }
 
+.btn.btn-primary.px-3.py-2.w-100:hover {
+    color: #ffffff !important; // your preferred button hover color
+    border-color: #7e7c9d !important; // your preferred button hover border color
+    background-color: #7e7c9d !important; // your preferred button hover background color
+}
+
 .dark {
     a {
         color: #aeadc5;
@@ -151,6 +157,18 @@ html body#top.page-wrapper div.page-header.header--fixed header nav#navbar-main.
         color: #d4d3e2 !important; // your preferred button hover color for dark mode
         border-color: #d4d3e2 !important; // your preferred button hover border color for dark mode
         background-color: #454371 !important; // your preferred button hover background color
+    }
+
+    .btn.btn-primary.px-3.py-2.w-100 {
+        // color: #aeadc5; // your preferred button color for dark mode
+        border-color: #7e7c9d; // your preferred button border color for dark mode
+        background-color: #7e7c9d !important; // your preferred color for dark mode
+    }
+
+    .btn.btn-primary.px-3.py-2.w-100:hover {
+        // color: #d4d3e2 !important; // your preferred button hover color for dark mode
+        border-color: #aeadc5 !important; // your preferred button hover border color for dark mode
+        background-color: #aeadc5!important; // your preferred button hover background color
     }
 
 
