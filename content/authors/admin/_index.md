@@ -6,8 +6,8 @@
 # name_pronunciation:
 
 # Full name (for SEO)
-# first_name: Vivien
-# last_name: van Veldhuizen
+first_name: Vivien
+last_name: van Veldhuizen
 
 # Status emoji
 status:
