@@ -58,6 +58,13 @@ a:hover {
     background-color: #454371 !important; // your preferred color
 }
 
+// Projects Section
+
+.col-12.col-md-6.order-first img {
+    max-width: 60%; // adjust this value as needed
+    height: auto;
+}
+
 // Buttons
 
 html body#top.page-wrapper div.page-header.header--fixed header nav#navbar-main.navbar.navbar-expand-lg.navbar-light.compensate-for-scrollbar div.container-xl ul.nav-icons.navbar-nav.flex-row.ml-auto.d-flex.pl-md-2 li.nav-item.dropdown.theme-dropdown div.dropdown-menu a.dropdown-item.js-set-theme-light.dropdown-item-active span {
