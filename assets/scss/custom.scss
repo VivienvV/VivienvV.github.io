@@ -1,7 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
-
 
 .navbar-brand {
     font-family: 'Source Sans 3', sans-serif;
@@ -12,6 +9,11 @@
 
 a {
     font-weight: 400;
+    color: #454371;
+}
+
+a:hover {
+    color: #7e7c9d !important; // your preferred hover color
 }
 
 .badge.badge-pill.border {
@@ -42,20 +44,8 @@ a {
     height: 250px;
 }
 
-#navbar-content.navbar-collapse.main-menu-item.collapse.justify-content-start {
-    justify-content: flex-end !important;
-}
 
-a {
-    color: #454371;
-}
-a:hover {
-    color: #7e7c9d !important; // your preferred hover color
-}
-
-.navbar .navbar-nav .nav-link.active {
-    color: #454371 !important;
-}
+// Experience section colors 
 
 .experience .m-2 .border, .experience .col.border-right {
     border-color: #454371 !important; // your preferred color
@@ -67,6 +57,19 @@ a:hover {
 .experience .m-2 .border.exp-fill {
     background-color: #454371 !important; // your preferred color
 }
+
+// Projects Section
+
+.col-12.col-md-6.order-first img {
+    max-width: 60%; // adjust this value as needed
+    height: auto;
+}
+
+.col-12.col-md-6 {
+    margin-left: -50px; // adjust this value as needed
+}
+
+// Buttons
 
 html body#top.page-wrapper div.page-header.header--fixed header nav#navbar-main.navbar.navbar-expand-lg.navbar-light.compensate-for-scrollbar div.container-xl ul.nav-icons.navbar-nav.flex-row.ml-auto.d-flex.pl-md-2 li.nav-item.dropdown.theme-dropdown div.dropdown-menu a.dropdown-item.js-set-theme-light.dropdown-item-active span {
     color: #454371 !important; // your preferred color
@@ -93,6 +96,14 @@ html body#top.page-wrapper div.page-header.header--fixed header nav#navbar-main.
     color: #ffffff !important; // your preferred button hover color
     border-color: #7e7c9d !important; // your preferred button hover border color
     background-color: #7e7c9d !important; // your preferred button hover background color
+}
+
+#navbar-content.navbar-collapse.main-menu-item.collapse.justify-content-start {
+    justify-content: flex-end !important;
+}
+
+.navbar .navbar-nav .nav-link.active {
+    color: #454371 !important;
 }
 
 .dark {
