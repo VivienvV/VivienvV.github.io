@@ -120,7 +120,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD Candidate in Artificial Intelligence for Breast Cancer Research, working with Jonas Teuwen and Eric Marcus as part of the [AI for Oncology Lab](www.aiforoncology.nl) at the Netherlands Cancer Institute. I am also part of the Breast Imaging Group of Ritse Mann at the Radboud University Medical Centre.  In addition, I work closely with Katja Pinker-Domenig at the [Memorial Sloan Kettering Cancer Institute](https://www.mskcc.org/cancer-care/doctors/katja-pinker-domenig).
+I am a PhD Candidate in Artificial Intelligence for Breast Cancer Research, working with Jonas Teuwen and Eric Marcus as part of the [AI for Oncology Lab](https://aiforoncology.nl/) at the Netherlands Cancer Institute. I am also part of the Breast Imaging Group of Ritse Mann at the Radboud University Medical Centre.  In addition, I work closely with Katja Pinker-Domenig at the [Memorial Sloan Kettering Cancer Institute](https://www.mskcc.org/cancer-care/doctors/katja-pinker-domenig).
 
 My research concerns the use of fundamental deep learning and computer vision for enhancing breast cancer care.  
 {style="text-align: justify;"}
