@@ -94,7 +94,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:v.v.veldhuizen@nki.nl
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
     link: https://x.com/vivienv_v
     label: Follow me on X
