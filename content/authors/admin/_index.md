@@ -93,7 +93,7 @@ superuser: true
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:v.v.veldhuizen@nki.nl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -114,7 +114,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: /resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
