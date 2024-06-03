@@ -21,9 +21,9 @@ marketing:
     description: 'Personal website of Vivien van Veldhuizen, PhD Candidate at the Netherlands Cancer Institute.'
     twitter: 'vivienv_v'
   analytics:
-    google_analytics: 'G-JNY3D4HMT'
+    google_analytics: 'G-JNY3D4HMTP'
     baidu_tongji: ''
-    google_tag_manager: 'G-JNY3D4HMT'
+    google_tag_manager: 'G-JNY3D4HMTP'
     microsoft_clarity: ''
   verification:
     google: 'google12280eaaed966f48.html'
